@@ -1,25 +1,26 @@
 
+
 ----
 
 **Door43**
 
-  * [[ta:home|Door43 (ta)]]
+   * [[:ta:home|Door43 (ta)]]
 
 **Resources**
 
-  * [[ta:obs|Open Bible Stories (ta)]]
-
+  * [[:ta:obs|Open Bible Stories (ta)]]
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-ta|d43-ta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ta/archive/master.zip|d43-ta.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-ta|d43-ta repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-ta/archive/master.zip|d43-ta.zip]]
 
 **Recent Changes**
+
 {{changes>ns = ta}}
 
 **Latest Status**
-{{page>en:uwadmin:ta:obs:status}}
 
+{{page>en:uwadmin:ta:obs:status}}
 
 **Language Information**
 
@@ -27,7 +28,9 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 **Resources**
 
-  * [[ta:obs|Open Bible Stories (ta)]]
+  * [[:ta:obs|Open Bible Stories (ta)]]
 
 **Latest OBS Status**
+
 {{page>en:uwadmin:ta:obs:status}}
+
