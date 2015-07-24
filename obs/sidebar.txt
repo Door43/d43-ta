@@ -10,6 +10,8 @@
 
   * [[:ta:obs|Open Bible Stories (ta)]]
 
+{{page>ta:obs:stories}}
+
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-ta|d43-ta repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-ta/archive/master.zip|d43-ta.zip]]
@@ -33,4 +35,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Latest OBS Status**
 
 {{page>en:uwadmin:ta:obs:status}}
-
