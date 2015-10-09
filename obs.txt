@@ -1,8 +1,5 @@
 ====== Open Bible Stories (ta) ======
 
-Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[/contact|just ask]]!
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[:contact|just ask]]!
 
-{{page>en:obs:active}}
-
-{{page>ta:obs:stories}}
-
+{{9.கடவுள் மோசேயை அழைத்தல்age>en:obs:active}}{{page>ta:obs:stories}}
