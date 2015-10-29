@@ -1,0 +1,20 @@
+====== Zoar ======
+
+===== Facts: =====
+
+In the Old Testament Zoar was a small city where Lot fled when God destroyed Sodom and Gomorrah.
+
+  * The ancient meaning of Zoar is small.
+  * Zoar is thought to have been located at the southern end of the Dead Sea.
+
+(Translation suggestions: [[:ta:ta:translate:translatenames|How to Translate Names]])
+
+(See also: [[:ta:obe:other:lot]], [[:ta:obe:other:sodom]], [[:ta:obe:other:gomorrah]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?zoar&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

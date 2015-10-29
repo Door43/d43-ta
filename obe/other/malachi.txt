@@ -1,0 +1,21 @@
+====== Malachi ======
+
+===== Facts: =====
+
+Malachi was one of God's prophets to the nation of Israel.
+
+  * Malachi prophesied during the period when Israel's temple was being rebuilt after returning from the Babylonian captivity.
+  * Malachi probably lived during the time when Nehemiah and Ezra were alive.
+  * The book of Malachi is the last book of the Old Testament and is traditionally said to be part of the "minor prophets" section.
+
+(Translation suggestions: [[:ta:ta:translate:translatenames|How to Translate Names]])
+
+(See also: [[:ta:obe:other:nehemiah]], [[:ta:obe:other:ezra]], [[:ta:obe:other:babylon]], [[:ta:obe:kt:prophet]], [[:ta:obe:other:captive]])
+
+===== Bible References: =====
+
+{{topic>malachi&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
