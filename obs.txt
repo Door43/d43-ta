@@ -2,6 +2,8 @@
 
 Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[:contact|just ask]]!
 
-[[:9.கடவுள்-மோசேயை-அழைத்தல்age-en:obs:active?media=9.கடவுள்-மோசேயை-அழைத்தல்age-en:obs:active|active]]
+==== Stories in Tamil ====
 
-28.பணக்கார வாலிப அதிகாரி}
+{{page>ta:obs:stories}}
+
+
