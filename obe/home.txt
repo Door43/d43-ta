@@ -1,10 +1,10 @@
-====== Complete list of Important Terms ======
+====== Complete List of Important Terms - Tamil ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:ta:obe:kt:home|Key Terms]]
-  * [[:ta:obe:other:home|Other Terms]]
+  * [[:ta:obe:kt:home]]
+  * [[:ta:obe:other:home]]
 
-==== All terms from both lists: ====
+==== All Important Terms: ====
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+<nspages ta:obe -r -title -exclude:home -textPages="">
