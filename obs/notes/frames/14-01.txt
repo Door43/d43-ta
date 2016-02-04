@@ -8,7 +8,7 @@ After **God** had told the **Israelites** the laws that he wanted them to obey a
   * **[[:ta:obe:kt:god]]**
   * **[[:ta:obe:other:israel]]**
   * **[[:ta:obe:kt:covenant]]**
-  * **[[:ta:obe:kt:sinai]]**
+  * **[[:ta:obe:other:sinai]]**
   * **[[:ta:obe:kt:promisedland]]**
   * **[[:ta:obe:other:canaan]]**
 ==== Translation Notes: ====
