@@ -1,17 +1,59 @@
 
-----
-
 **Door43**
 
-  * [[ta:home|Door43 (ta)]]
+  * [[ta:home|Door43 (Tamil)]]
+
+**Help**
+
+  * [[:ta:ta|translationAcademy]]
+  * [[:en:get-started|How to Get Started]]
+  * [[:en:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[ta:obs|Open Bible Stories (ta)]]
+  *  [[:ta:obs|Open Bible Stories]]
+      * [[:ta:obs:notes|translationNotes]]
+      * [[:ta:obs:notes:questions:home|translationQuestions]]
+      * [[:ta:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:ta:bible:intro|Bible (Tamil)]]
+      * [[:ta:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:ta:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:ta:bible:notes:home|translationNotes]]
+      * [[:ta:bible:questions:comprehension:home|translationQuestions]]
+      * [[:ta:obe:home|translationWords]]
+  * [[:en:ta|translationAcademy (English)]]
+      * [[:en:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:en:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-ta|d43-ta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ta/archive/master.zip|d43-ta.zip]]
+All content for this namesorce is available in the [[https://github.com/Door43/d43-ta|d43-ta repository]].  To download it ta a zip file, click [[https://github.com/Door43/d43-ta/archive/master.zip|d43-ta.zip]]
 
 **Recent Changes**
 {{changes>ns = ta}}
@@ -19,8 +61,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/ta|Ethnologue data]]
-
-**Resources**
-
-  * [[ta:obs|Open Bible Stories (ta)]]
-
