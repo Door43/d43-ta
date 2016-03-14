@@ -27,7 +27,7 @@
   - [[:ta:obs:25]]
   - [[:ta:obs:26]]
   - [[:ta:obs:27]]
-  - - [[:ta:obs:28|The Rich Young Ruler]]
+  - - [[:ta:obs:28|பணக்கார வாலிப அதிகாரி]]
   - - [[:ta:obs:29|The Story of the Unmerciful Servant]]
   - - [[:ta:obs:30|Jesus Feeds Five Thousand People]]
   - - [[:ta:obs:31|Jesus Walks on Water]]
