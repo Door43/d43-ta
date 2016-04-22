@@ -1,10 +1,13 @@
-====== Complete List of Important Terms - Tamil ======
+====== Complete List of translationWords - Tamil ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:ta:obe:kt:home]]
-  * [[:ta:obe:other:home]]
+ 
+  * [[:ta:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:ta:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+
+
+==== All Terms in the OBE: ====
 
 <nspages ta:obe -r -title -exclude:home -textPages="">
